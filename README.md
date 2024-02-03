@@ -1,3 +1,1 @@
 # Serena-Hotel-
-
-Hola
